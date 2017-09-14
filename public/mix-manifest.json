@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/dashboard.css": "/css/dashboard.css",
+    "/css/cover.css": "/css/cover.css",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/popper.min.js": "/js/popper.min.js",
+    "/js/jquery.min.js": "/js/jquery.min.js"
+}
